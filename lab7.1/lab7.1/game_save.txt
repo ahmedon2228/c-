@@ -1,0 +1,3 @@
+Player Hero 85 1
+Player Mage 70 3
+Player Warrior 110 2
