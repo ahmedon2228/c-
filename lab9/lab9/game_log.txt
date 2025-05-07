@@ -1,0 +1,22 @@
+[Wed May  7 23:08:56 2025] Game started
+[Wed May  7 23:09:07 2025] Game started
+[Wed May  7 23:09:10 2025] Hero attacks Goblin for 10 damage!
+[Wed May  7 23:09:10 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:12 2025] Hero attacks Goblin for 10 damage!
+[Wed May  7 23:09:12 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:13 2025] Hero attacks Goblin for 10 damage!
+[Wed May  7 23:09:13 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:13 2025] Hero attacks Goblin for 10 damage!
+[Wed May  7 23:09:13 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:14 2025] Hero attacks Goblin for 10 damage!
+[Wed May  7 23:09:14 2025] Goblin has been defeated!
+[Wed May  7 23:09:16 2025] Hero heals for 0 HP!
+[Wed May  7 23:09:16 2025] Used item: Small Health Potion
+[Wed May  7 23:09:19 2025] Hero equipped Iron Sword and gained +3 attack!
+[Wed May  7 23:09:19 2025] Used item: Iron Sword
+[Wed May  7 23:09:25 2025] Hero attacks Goblin for 13 damage!
+[Wed May  7 23:09:25 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:26 2025] Hero attacks Goblin for 13 damage!
+[Wed May  7 23:09:26 2025] Goblin attacks Hero, but it has no effect!
+[Wed May  7 23:09:27 2025] Hero attacks Goblin for 13 damage!
+[Wed May  7 23:09:27 2025] Goblin attacks Hero, but it has no effect!
